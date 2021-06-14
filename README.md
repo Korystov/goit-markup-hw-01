@@ -2,3 +2,5 @@
 
 Репозиторий для контроля домашней работы
 add html beginin
+add Header
+add hero
