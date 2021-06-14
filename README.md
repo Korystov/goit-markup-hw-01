@@ -7,3 +7,6 @@ add hero
 add Features of the
 add images
 add What are we doing
+add our team
+add footer
+repir footer aa ul
