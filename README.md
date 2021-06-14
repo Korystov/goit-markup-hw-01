@@ -4,3 +4,5 @@
 add html beginin
 add Header
 add hero
+add Features of the
+add images
