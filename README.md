@@ -6,3 +6,4 @@ add Header
 add hero
 add Features of the
 add images
+add What are we doing
